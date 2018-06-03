@@ -1,0 +1,12 @@
+
+ .container {
+	margin:0 auto;
+	box-sizing: content-box;
+	border:5px solid black;
+	font-family: 'Kaushan Script', cursive;
+	font-size:250%; 
+}
+body.dropdown{
+	font-family: 'Kaushan Script', cursive;
+	font-size:100%; 
+}
